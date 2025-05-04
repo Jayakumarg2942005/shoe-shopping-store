@@ -485,6 +485,10 @@ html {
     .slider{
       clip-path: none;
     }
+
+    .sliderItem{
+      margin: 25px;
+    }
   
     .sliderImg{
       width: 90%;
